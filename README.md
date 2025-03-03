@@ -7,6 +7,12 @@ The **SALD (Storage and Launch Drone Systems via Helium Balloons)** project prop
 
 
 
+<p align="center">
+  
+<img src="SALD-Project.png" alt="AI-Chat-Enhacer" width="400"/>
+
+</p>
+
 The helium balloons will be launched to altitudes higher than conventional aircraft but lower than satellites, providing a strategic vantage point for the deployment of drones to specific target zones. The helium balloons carry a 1x1 cubic meter container housing both the drones and the system for their deployment, known as **SALD**.
 
 ## **Key Features and Components**
