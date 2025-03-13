@@ -18,7 +18,7 @@ The helium balloons will reach altitudes higher than conventional aircraft but l
 
 - **Helium Balloons**: The helium balloons will operate at altitudes ranging between 18,000 and 30,000 meters (18-30 km), above the typical operating altitude of commercial aircraft (10-12 km) but far below the altitude of satellites (around 500 km). This altitude range allows for versatile drone deployment in strategic areas.
 
-- **Drone Deployment System (SALD)**: The container measures 1x1 cubic meter and houses several drones along with the automated launch system. Once deployed, drones are released one at a time, ensuring precise control over deployment and operational flexibility. The container itself remains tethered to the helium balloon, allowing for future drone releases.
+- **Drone Deployment - Storage and Launch Drone System (SALD)**: The container measures 1x1 cubic meter and houses several drones along with the automated launch system. Once deployed, drones are released one at a time, ensuring precise control over deployment and operational flexibility. The container itself remains tethered to the helium balloon, allowing for future drone releases.
 
 - **Multi-Drone Deployment**: The system is designed to support the simultaneous deployment of multiple drones, allowing for larger-scale operations and the flexibility to carry out different missions concurrently.
 
