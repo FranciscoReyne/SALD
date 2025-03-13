@@ -10,7 +10,7 @@
 
 **Project Overview**
 
-The **SALD (Storage and Launch Drone Systems via Helium Balloons)** project introduces a groundbreaking method for deploying drones using high-altitude helium balloons. This system involves the use of an automated and remotely controlled container that houses drones, which can be released one by one for military, tactical, or strategic operations. The **SALD** system is designed to allow the remote deployment of drones from a helium balloon, enabling flexible and rapid responses in key areas.
+The **SALD (Storage and Launch Drone Systems) via Helium Balloons** project introduces a groundbreaking method for deploying drones using high-altitude helium balloons. This system involves the use of an automated and remotely controlled container that houses drones, which can be released one by one for military, tactical, or strategic operations. The **SALD** system is designed to allow the remote deployment of drones from a helium balloon, enabling flexible and rapid responses in key areas.
 
 The helium balloons will reach altitudes higher than conventional aircraft but lower than satellites, providing a versatile platform for drone release over strategically significant areas. The system's container, measuring 1x1 cubic meter, will remain attached to the balloon while releasing drones individually for specific tasks.
 
