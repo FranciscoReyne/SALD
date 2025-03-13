@@ -50,7 +50,7 @@ The helium balloons will reach altitudes higher than conventional aircraft but l
 
 ## **How It Works**
 
-1. **Launch**: The helium balloon is inflated and launched to an altitude above 18,000 meters, above the operational range of commercial aircraft but below the altitude of satellites.
+1. **Launch**: The helium balloon is inflated and launched to an altitude above 18,000 meters, above the operational range of aircrafts.
    
 2. **Drone Deployment**: Once the balloon reaches the target altitude, the SALD container remains tethered to the balloon, while drones are released one by one. Each drone can be activated individually, providing the flexibility to perform various tasks on demand. 
 
